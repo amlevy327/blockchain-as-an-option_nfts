@@ -1,0 +1,30 @@
+{
+  "name": "blockchain-as-an-option_nfts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amlevy327/blockchain-as-an-option_nfts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amlevy327/blockchain-as-an-option_nfts/issues"
+  },
+  "homepage": "https://github.com/amlevy327/blockchain-as-an-option_nfts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.11.1",
+    "solidity-coverage": "^0.7.22"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.2",
+    "keccak256": "^1.0.6"
+  }
+}
